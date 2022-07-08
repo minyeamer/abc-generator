@@ -74,3 +74,18 @@
 - https://www.wenyanet.com/opensource/ko/61fd2622827eba0d0d7899d2.html
 - https://github.com/soumya997/Music-Generation-Using-Deep-Learning
 - https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/
+
+---
+
+## Additional References
+- [Music Generation using Three-layered LSTM](https://arxiv.org/abs/2105.09046)
+- [Music.Generation.with.DeepLearning](https://github.com/laventura/Music.Generation.with.DeepLearning)
+- [Music21 가이드](https://ddggblog.tistory.com/228)
+- [딥러닝을 이용한 BGM 음원 작곡 서비스 설계 및 구현](https://www.koreascience.or.kr/article/CFKO201924664108480.pdf)
+- [딥러닝을 이용한 음악 생성](https://www.wenyanet.com/opensource/ko/61fd2622827eba0d0d7899d2.html)
+- [딥러닝을 이용한 음악 생성 Github](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)
+- [딥러닝을 이용한 음악 생성 Demo](https://www.abcjs.net/abcjs-editor.html)
+- [music21.abcFormat](https://web.mit.edu/music21/doc/moduleReference/moduleAbcFormat.html)
+- [Music21 라이브러리를 활용한 미디 데이터 분석](https://inspiringpeople.github.io/data%20analysis/midi-music-data-extraction-using-music21/)
+- [abc notation of tunes](https://www.kaggle.com/datasets/raj5287/abc-notation-of-tunes/code)
+- [Interacting with GPT-2 to Generate Controlled and Believable Musical Sequences in ABC Notation](https://aclanthology.org/2020.nlp4musa-1.10.pdf)
